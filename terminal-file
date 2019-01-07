@@ -1,0 +1,182 @@
+detail
+  950  http-server -o
+  951  ls
+  952  http -server -o
+  953  sudo http -server -o
+  954  sudo http-server -o
+  955  ng add @angular/pwa 
+  956  cd ..
+  957  ng add @angular/pwa 
+  958  npm i @angular/pwa
+  959  ng build --prod
+  960  cd dist/
+  961  http-serer --o
+  962  http --serer --o
+  963  http -server --o
+  964  http --server --o
+  965  sudo http --server --o
+  966  cd ..
+  967  ng add @angular/pwa
+  968  npm add @angular/pwa
+  969  cd ..
+  970  cd map/
+  971  ng g s map
+  972  ls
+  973  cd dist/
+  974  http-server-o
+  975  http-server -o
+  976  cd ../../
+  977  cd map/
+  978  npm install --save-dev http-server
+  979  cd dist/
+  980  http-server -o
+  981  sudo npm install -g --save-dev http-server
+  982  http-server -o
+  983  cd ..
+  984  ng add @angular/pwa
+  985  sudo ng add @angular/pwa
+  986  ng help
+  987  ng version
+  988  ng help
+  989  ng update
+  990  ng add @angular/pwa
+  991  ng version
+  992  code .
+  993  ng serve
+  994  ls
+  995  ng serve
+  996  ng serve -o
+  997  ng build --prod
+  998  ls
+  999  dist
+ 1000  cd dist/
+ 1001  ls
+ 1002  cd map/
+ 1003  http-server -o
+ 1004  cd ..
+ 1005  cd ...
+ 1006  cd ..
+ 1007  ls
+ 1008  cd src/app/
+ 1009  ng g s data
+ 1010  cd ../../
+ 1011  ng add @angular/pwa
+ 1012  ls
+ 1013  path
+ 1014  ls
+ 1015  cd src/
+ 1016  ls
+ 1017  pwd
+ 1018  cd ..
+ 1019  ng build --prod
+ 1020  cd dist/
+ 1021  http-server -o
+ 1022  cd map/
+ 1023  http-server -o
+ 1024  cd ../..
+ 1025  ng g c map
+ 1026  ng build --prod
+ 1027  npm i@types/googlemaps
+ 1028  npm install @types/googlemaps
+ 1029  npm i@types/googlemaps
+ 1030  ng build --prod
+ 1031  npm i @types/googlemaps
+ 1032  ng build --prod
+ 1033  npm i @agm/core@agm/core
+ 1034  npm install @agm/core
+ 1035  npm i @agm/snazzy-info-window
+ 1036  npm i @agm/js-marker-clusterer
+ 1037  ng build --prod
+ 1038  ng serve
+ 1039  ng build --prod
+ 1040  cd dist/map/
+ 1041  http-server -o
+ 1042  ng build --prod
+ 1043  ls
+ 1044  ng build --prod
+ 1045  http-server -o
+ 1046  ng build --prod
+ 1047  cd ..
+ 1048  la
+ 1049  ls -l
+ 1050  l
+ 1051  cd dist/
+ 1052  ls
+ 1053  cd ..
+ 1054  ng build --prod
+ 1055  ng serve
+ 1056  npm i
+ 1057  ng serve
+ 1058  ng build --prod
+ 1059  cd dist/map/
+ 1060  http-server -o
+ 1061  cd ../../
+ 1062  ng serve
+ 1063  ng build --prod
+ 1064  cd dist/map/
+ 1065  http-server -o
+ 1066  ls
+ 1067  code .
+ 1068  ng serve -o
+ 1069  npm i @agm/core
+ 1070  npm i @angular/forms
+ 1071  npm i
+ 1072  ng serve -o
+ 1073  ls
+ 1074  ng builld 
+ 1075  ng build
+ 1076  npm install --save @types/googlemaps
+ 1077  ls
+ 1078  ng serve
+ 1079  ls
+ 1080  ng build 
+ 1081  npm i
+ 1082  ng serve -o
+ 1083  cd ..
+ 1084  ng new map1
+ 1085  ls
+ 1086  cd map1/
+ 1087  ls
+ 1088  ng build -prod
+ 1089  ng build --prod
+ 1090  ng add @angular/pwa
+ 1091  ls
+ 1092  cd dist/map1/
+ 1093  http-serve -o
+ 1094  cd ../..
+ 1095  ng serve
+ 1096  ls
+ 1097  cd dist/map1/
+ 1098  cd ../...
+ 1099  cd../..
+ 1100  cd ../../
+ 1101  ng build --prod
+ 1102  cd dist/map1/
+ 1103  http-server -o
+ 1104  cd ../../
+ 1105  npm i @types/googlemaps
+ 1106  npm install --save @types/googlemaps
+ 1107  npm install --save @types/google-maps
+ 1108  npm install typings --global
+ 1109  sudo npm install typings --global
+ 1110  typings install dt~google.maps --global --save
+ 1111  typings install google.maps --global
+ 1112  sudo typings install google.maps --global
+ 1113  npm i update
+ 1114  npm install --save-dev @types/googlemaps
+ 1115  ng serve
+ 1116  npm i googlemaps
+ 1117  ng serve
+ 1118  code .
+ 1119  ng serve-o
+ 1120  ng serve -o
+ 1121  code .
+ 1122  ng serve -o
+ 1123  code .
+ 1124  touch map.js
+ 1125  vim map.js
+ 1126  firebase init
+ 1127  firebase use -add 
+ 1128  firebase use --add 
+ 1129  ng build --prod
+ 1130  firebase deploy
